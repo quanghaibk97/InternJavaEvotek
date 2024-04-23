@@ -87,5 +87,4 @@ public class MergeSort {
     System.out.println("Mảng sau khi sắp xếp:");
     printArray(arr);
   }
-
 }
